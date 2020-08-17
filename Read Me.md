@@ -1,0 +1,1 @@
+This is a repository for the set up and creation of Home Assisant projects, please see tutorials for basics
